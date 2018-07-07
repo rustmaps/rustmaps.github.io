@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  display: none; 
+  display: none;
+}
+
+.main-content + p + img {
+  margin-top: -30px
 }
