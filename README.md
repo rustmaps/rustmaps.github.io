@@ -1,6 +1,31 @@
 ![Image](./images/banner.png)
 
-## The Rusty Cartographers
+# Getting Started Making Custom Rust Maps
+
+You'll need two things, [Dezinated's Editor](https://github.com/JasonM97/Rust-Map-Editor), and [Unity](https://unity3d.com/unity/beta-download).
+
+**Unity Fixes**
+  - .NET 4
+  - Turn off autobake
+
+**Using MapIO**
+  - importing maps
+  - importing heightmaps
+  - where to get maps to import
+
+**Ground, and Heightmaps**
+  - how to select the ground to be able to edit
+  - how to use unity's terrain sculpting tools
+  - how to get custom brushes
+
+**Textures**
+  - how they work
+  - how to use them
+  - how to blend them
+
+**Topology**
+  - changing and painting topology
+  - limitations of topology
 
 You can use the [editor on GitHub](./topology.md) to maintain and preview the content for your website in Markdown files.
 
