@@ -1,4 +1,4 @@
-![Image](./images/banner.jpg)
+![Image](./images/banner.png)
 
 ## Welcome to GitHub Pages
 
